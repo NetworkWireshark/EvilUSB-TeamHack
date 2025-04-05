@@ -1,0 +1,11 @@
+Set-ExecutionPolicy Bypass CurrentUser -force
+
+
+
+help
+infect
+use
+use Exfiltration\WlanProfiles
+add
+show
+write
